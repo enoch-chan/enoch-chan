@@ -1,0 +1,52 @@
+h1 {
+	font-family: 'Actor', sans-serif;
+	text-align: center;
+	color:#616161;
+}
+
+h2 {
+	font-family: 'Actor', sans-serif;
+	padding: 0px 100px 0px 100px;
+	color:#616161;
+}
+
+.festivemarkets {
+	font-family: 'Poiret One', cursive;
+	color: white;
+	font-size: 60px;
+	padding: 30px 30px 30px 30px; 
+	text-align: center;
+	background-image: url(background.jpg); opacity: 0.8;
+}
+
+p {
+	
+	font-family: 'Actor', sans-serif;
+	padding: 0px 100px 0px 100px;
+	color:#616161;
+}
+
+li {
+	font-family: 'Actor', sans-serif;
+	padding: 0px 100px 0px 100px;
+}
+
+.menu a {
+	color: grey;
+	font-family: 'Noto Sans', sans-serif; font-size: 20px;
+	margin-left: 5px;
+	margin-right: 5px;
+
+}
+
+.menu {
+	background-color:rgba(50, 180, 50, 0.2);
+	padding: 10px;
+	text-align: center;
+}
+
+img {
+	height: 300px;
+	width: 300px;
+	padding: 30px 100px 30px 100px;;
+}
