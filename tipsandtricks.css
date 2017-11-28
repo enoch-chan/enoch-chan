@@ -22,6 +22,7 @@ h2 {
 p {
 	
 	font-family: 'Actor', sans-serif;
+	font-size: 16px;
 	padding: 0px 100px 0px 100px;
 	color:#616161;
 }
@@ -45,8 +46,11 @@ li {
 	text-align: center;
 }
 
-img {
-	height: 300px;
-	width: 300px;
-	padding: 30px 100px 30px 100px;;
+
+#first > img {
+	max-height: 600px;
+	max-width: 1400px;
+	width: 1400px;
+	height: 600px;
+	padding: 0px 100px 0px 100px;
 }
