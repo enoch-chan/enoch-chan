@@ -1,0 +1,50 @@
+body {
+    background-image: url("Background.jpg");
+    background-size: cover;
+     background-attachment: fixed;
+}
+
+.jumbotron h1 {
+  color: white;
+  max-height: 50px;
+  background-color: transparent;
+}
+
+body{
+background-image: url('background.jpg');
+background-size: cover; 
+padding: 25px;
+	
+} 
+
+h2 {
+color: black;
+font-family: 'Bowlby One SC', cursive;
+}
+
+.menu a {
+color: white;
+font-family: 'Noto Sans', sans-serif; font-size: 20px;
+margin-left: 5px;
+margin-right: 5px;
+}
+
+.menu {
+background-color:rgba(255, 255, 255, 0.2);
+border-radius: 10px;
+padding: 10px;
+text-align: center;
+}
+
+
+.jumbotron img {
+width: 150px;
+float: right;
+}
+
+.Sheffield { 
+color: white; 
+font-family: 'Actor', sans-serif;
+font-size: 20px;
+background-color: rgba(85, 85, 85, 0.8);
+}
