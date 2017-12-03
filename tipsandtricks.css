@@ -1,3 +1,7 @@
+body {
+	text-align: center;
+}
+
 h1 {
 	font-family: 'Actor', sans-serif;
 	text-align: center;
@@ -8,6 +12,15 @@ h2 {
 	font-family: 'Actor', sans-serif;
 	padding: 0px 100px 0px 100px;
 	color:#616161;
+}
+
+h3 {
+	font-family: 'Actor', sans-serif;
+	font-size: 20px;
+	padding: 30px 100px 100px 100px;
+	color:white;
+	background-color: #b2dfdb;
+
 }
 
 .festivemarkets {
@@ -54,3 +67,37 @@ li {
 	height: 600px;
 	padding: 0px 100px 0px 100px;
 }
+
+.button1 {
+	padding: 0px 100px 0px 100px;
+}
+
+#second > img {
+	max-height: 20px;
+	max-width: 20px;
+	width: 20px;
+	height: 20px
+	padding: 10px 10px 10px 10px;
+}
+
+#third > img {
+	max-height: 20px;
+	max-width: 20px;
+	width: 20px;
+	height: 20px
+	padding: 10px 10px 10px 10px;
+}
+
+#fourth > img {
+	max-height: 20px;
+	max-width: 20px;
+	width: 20px;
+	height: 20px
+	padding: 10px 10px 10px 10px;
+}
+
+.instagram-media {
+	padding: 10px 10px 10px 10px;
+	margin: 50px 50px 50px 50px;
+}
+
