@@ -61,9 +61,10 @@ li {
 
 
 #first > img {
-	width: 1400px;
-	height: 600px;
-	padding: 0px 100px 0px 100px;
+	width: 85%;
+	height: 35%;
+	padding: 0px 100px 0px 100px
+	max-width: 100%;
 }
 
     @media (max-width: 500px) {
