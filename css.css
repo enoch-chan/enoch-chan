@@ -10,6 +10,16 @@ color: black;
 font-family: 'Bowlby One SC', cursive;
 }
 
+h1{
+color: white;	
+font-family: 'Actor', sans-serif;
+	text-align: center;
+	font-size: 28px;
+	text-shadow: 1px 1px 4px black;
+	margin-bottom: 30px;
+
+}
+
 .menu a {
 color: white;
 font-family: 'Noto Sans', sans-serif; font-size: 20px;
@@ -22,13 +32,33 @@ background-color:rgba(255, 255, 255, 0.2);
 border-radius: 10px;
 padding: 10px;
 text-align: center;
+
 }
+
+.intro img {
+float: left;
+margin-right: 25px; 
+}
+
+.intro p {
+color: black;	
+font-family: 'Actor', sans-serif;
+font-size: 20px;
+}
+
+.intro {
+	border-radius: 10px;
+overflow: hidden;
+background-color: #eeeeee;
+
+}
+
 
 
 .jumbotron img {
 width: 150px;
 float: right;
-
+}
 
 
 
