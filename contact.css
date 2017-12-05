@@ -5,24 +5,23 @@ body {
 }
 
 .jumbotron h1 {
-  color: white;
   max-height: 50px;
   background-color: transparent;
+  font-family: 'Actor', sans-serif;
+  text-align: center;
+  color:#616161;
+}
 }
 body {
 	text-align: center;
 }
 
-h1 {
-	font-family: 'Actor', sans-serif;
-	text-align: center;
-	color:grey;
-}
 
 h2 {
 	font-family: 'Actor', sans-serif;
 	padding: 0px 100px 0px 100px;
 	color:#616161;
+	text-align: center;
 }
 
 h3 {
@@ -30,30 +29,11 @@ h3 {
 	font-size: 20px;
 	padding: 30px 100px 100px 100px;
 	color:white;
-	background-color: #b2dfdb;
-
 }
 
-.festivemarkets {
-	font-family: 'Poiret One', cursive;
-	color: white;
-	font-size: 60px;
-	padding: 30px 30px 30px 30px; 
-	text-align: center;
-	background-image: url(background.jpg); opacity: 0.8;
-}
-
-p {
-	
-	font-family: 'Actor', sans-serif;
-	font-size: 16px;
-	padding: 0px 100px 0px 100px;
-	color:#616161;
-}
-
-li {
-	font-family: 'Actor', sans-serif;
-	padding: 0px 100px 0px 100px;
+.jumbotron img {
+width: 150px;
+float: right;
 }
 
 .menu a {
